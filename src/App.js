@@ -6,7 +6,6 @@ function App() {
   return (
     <React.Fragment>
       <ForwardCounter />
-      <p>Nothing updated</p>
       <BackwardCounter />
     </React.Fragment>
   );
